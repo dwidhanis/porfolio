@@ -1,3 +1,3 @@
 # Preview
 
-https://dwidhanis.github.io/porfolio/
+https://dwidhanis.github.io/portfolio/
